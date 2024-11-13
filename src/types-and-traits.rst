@@ -834,7 +834,7 @@ The :t:`type` of a :t:`union field` shall be either:
 
 * :dp:`fls_bQhh3zHAKjSu`
   An :t:`array type` whose :t:`element type` is a valid :t:`union field`
-  :t:`[type]s`.
+  :t:`[type]`.
 
 .. rubric:: Examples
 
